@@ -33,7 +33,7 @@ Dataset used from YouTube, refer: <code>[YouTube Dataset](https://docs.google.co
 * Adult age group (30-49 years) is Max Contributing to Sales
 * Amazon, Flipkart and Myntra Channels are Max Contributing
 
-** --> Target women customers of age group (30-49 yrs) in above mentioned states and show coupons / offers on mentioned Channels to Increase the sales drastically. **
+**--> Target women customers of age group (30-49 yrs) in above mentioned states and show coupons / offers on mentioned Channels to Increase the sales drastically.**
 
 
 ## Project References: 🔗
