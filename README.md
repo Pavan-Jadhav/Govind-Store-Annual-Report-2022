@@ -24,7 +24,7 @@ Dataset used from YouTube, refer: <code>[YouTube Dataset](https://docs.google.co
   
 ## We generated different types of Charts with the help of Pivot Charts and Combined them in a Dashboard as follow:
  
-  <picture><img align="center" src="https://github.com/Pavan-Jadhav/Govind-Store-Annual-Report-2022/blob/main/Govind%20Store%20Annual%20Report_Excel_Dashboard.gif" alt="Govind Store Annual Report 2023 Dashboard"/></picture>
+  <picture><img align="center" src="https://github.com/Pavan-Jadhav/Govind-Store-Annual-Report-2022/blob/main/Govind%20Store%20Annual%20Report_Excel_Dashboard.gif" alt="Govind Store Annual Report 2022 Dashboard"/></picture>
   
 ## Project Summary:
   
